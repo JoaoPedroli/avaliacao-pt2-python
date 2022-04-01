@@ -1,5 +1,3 @@
-# pedão das coxinha - ASSINADO | não copie meu nobre isso é feio Deus está vendo >:(
-
 pop_pais_A = 80000
 tax_cres_A = 3.0
 
