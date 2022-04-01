@@ -3,8 +3,7 @@ sal_atual = sal_inicial
 por_inicial = 1.5
 
 for i in range(1996, 2023):
-  print(sal_atual)
   sal_atual += (sal_inicial * (por_inicial / 100))
   por_inicial *= 2
 
-print(sal_inicial)
+print(sal_atual)
