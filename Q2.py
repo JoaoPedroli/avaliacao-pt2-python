@@ -1,8 +1,5 @@
-# pedão das coxinha - ASSINADO | não copie meu nobre isso é feio Deus está vendo >:(
-
 maior = -9999
-i = 1
-while i <= 5:
+for i in range(1, 6):
   n = int(input(f'Insira o {i}º numero: '))
   maior = max(maior, n)
   i += 1

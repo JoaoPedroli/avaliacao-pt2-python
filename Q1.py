@@ -1,5 +1,3 @@
-# pedão das coxinha - ASSINADO | não copie meu nobre isso é feio Deus está vendo >:(
-
 warn = ''
 while True:
   nome = input(f'Insira seu nome {warn}: ')
