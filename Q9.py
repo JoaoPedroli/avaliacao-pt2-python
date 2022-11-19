@@ -1,6 +1,5 @@
 from math import sqrt
 
-# acabei usando função de novo pq tava com preguiça, perdão senhor
 def isPrime(n):
   for i in range(2, int(sqrt(n)) + 1):
     if n % i == 0:
