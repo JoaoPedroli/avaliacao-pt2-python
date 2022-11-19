@@ -1,5 +1,3 @@
-# usei função e dict pq tava com preguiça desculpa :P
-
 def getClient(codigo = 0, altura = 0.0, peso = 0.0):
   return {
     'codigo': codigo, 'altura': altura, 'peso': peso,
